@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Introduction to Jupyter Notebooks
+author: Dr Spock
 email: sara.king@aarnet.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   A template for training materials
