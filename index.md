@@ -3,7 +3,7 @@ title: AARNet
 permalink: /
 ---
 
-# introduction to Jupyter Notebooks
+# Introduction to Jupyter Notebooks
 
 ## Course description
 
