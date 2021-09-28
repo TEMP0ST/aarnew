@@ -1,0 +1,17 @@
+---
+layout: default
+
+---
+    {%- include episode-nav.html -%}
+
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include episode-nav.html -%}
