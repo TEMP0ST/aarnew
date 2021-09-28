@@ -29,7 +29,7 @@ This workshop is targeted at those who are absolute beginners or ‘tech-curious
 > * Participants learn how to open a Jupyter Notebook in SWAN, CloudStor's Jupyter Notebook environment, and save it for later.
 > * Participants can perform some basic tasks in a notebook, including using Markdown, Python and R.
 
-## Episodes
+# Episodes
 
 | Time | Episode |
 | --- | --- |
@@ -56,7 +56,8 @@ This workshop is targeted at those who are absolute beginners or ‘tech-curious
 > * If you do not have CloudStor access you can still attend, just advise the trainer beforehand so arrangements can be made.
 > * Bring your own laptop!
 
-## Course team
+
+# Course team
 
 * [Dr Sara King](https://orcid.org/0000-0003-3199-5592)
 
