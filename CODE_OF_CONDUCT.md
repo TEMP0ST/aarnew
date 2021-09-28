@@ -1,9 +1,7 @@
 ---
-layout: page
 title: "Workshop Code of Conduct"
+layout: page
 ---
-
-## Code of Conduct
 
 Please read and take note of the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) by which we expect everybody to abide.
 

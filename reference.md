@@ -1,9 +1,7 @@
 ---
-layout: page
 title: "Reference Terms"
+layout: page
 ---
-
-## Key terms
 
 **Array** - Items (such as objects, numbers, etc.) arranged in rows and/or columns. In computer science, an **array data structure**, or simply an **array**, is a data structure consisting of a collection of elements (**values** or **variables**), each identified by at least one array index or **key**
 
