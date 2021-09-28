@@ -51,8 +51,6 @@ This workshop is targeted at those who are absolute beginners or ‘tech-curious
 
 >## Tools you need
 >
->Tools you need:
->
 > * Please check that you can log in to [cloudstor.aarnet.edu.au](https://cloudstor.aarnet.edu.au).
 >
 > * If you do not have CloudStor access you can still attend, just advise the trainer beforehand so arrangements can be made.
