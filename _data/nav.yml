@@ -1,8 +1,8 @@
 docs_list_title: Navigation
 docs:
 
-- title: Contributing
-  url: contributing
+- title: Code of Conduct
+  url: CODE_OF_CONDUCT
 
-- title: Reuse
-  url: reuse
+- title: References
+  url: references
