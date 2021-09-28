@@ -19,15 +19,15 @@ If you are really into it, you will also be able to continue to experiment after
 
 This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming.
 
-## Learning objectives
+# Workshop aims
 
-By the end of this workshop, learners will be able to:
-
-* Participants understand what Jupyter Notebooks are, what they do, how they fit in the research landscape and why they might use them.
-
-* Participants learn how to open a Jupyter Notebook in SWAN, CloudStor's Jupyter Notebook environment, and save it for later.
-
-* Participants can perform some basic tasks in a notebook, including using Markdown, Python and R.
+>## Learning Objectives
+> 
+> By the end of this workshop, learners will be able to:
+> 
+> * Participants understand what Jupyter Notebooks are, what they do, how they fit in the research landscape and why they might use them.
+> * Participants learn how to open a Jupyter Notebook in SWAN, CloudStor's Jupyter Notebook environment, and save it for later.
+> * Participants can perform some basic tasks in a notebook, including using Markdown, Python and R.
 
 ## Episodes
 
@@ -46,15 +46,15 @@ By the end of this workshop, learners will be able to:
 | 0:10 | [11. Jupyter Notebooks in the researcher's toolkit]({{ site.baseurl }}/11-end-cloudstor-session) |
 
 
-## Prerequisites
+# Prerequisites
 
-Tools you need:
-
-* Please check that you can log in to [cloudstor.aarnet.edu.au](https://cloudstor.aarnet.edu.au).
-
-* If you do not have CloudStor access you can still attend, just advise the trainer beforehand so arrangements can be made.
-
-* Bring your own laptop!
+>## Tools you need
+>
+>Tools you need:
+>
+> * Please check that you can log in to [cloudstor.aarnet.edu.au](https://cloudstor.aarnet.edu.au).
+> * If you do not have CloudStor access you can still attend, just advise the trainer beforehand so arrangements can be made.
+> * Bring your own laptop!
 
 ## Course team
 

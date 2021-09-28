@@ -9,7 +9,6 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 
 We’d like to highlight these behaviours in particular:
 
-
 * Use welcoming and inclusive language
 
 * Be respectful of different viewpoints and experiences
