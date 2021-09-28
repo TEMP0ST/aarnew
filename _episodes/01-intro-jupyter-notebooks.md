@@ -15,7 +15,7 @@ keypoints:
  - "Notebooks are useful! Don't be put off by the techie talk :)"
 ---
 
-### Introduction
+# Introduction
 
 Computational notebooks have been around since the late 1980s.
 Essentially a notebook is an advanced word processor.
@@ -74,6 +74,6 @@ What are the words that trip you up? Think of a way to remember what that word m
 > - Command line
 > - Vector
 > - Array
-
+{: .challenge}
 
 
