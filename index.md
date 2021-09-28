@@ -28,6 +28,7 @@ This workshop is targeted at those who are absolute beginners or ‘tech-curious
 > * Participants understand what Jupyter Notebooks are, what they do, how they fit in the research landscape and why they might use them.
 > * Participants learn how to open a Jupyter Notebook in SWAN, CloudStor's Jupyter Notebook environment, and save it for later.
 > * Participants can perform some basic tasks in a notebook, including using Markdown, Python and R.
+{: .challenge}
 
 # Episodes
 
@@ -53,8 +54,11 @@ This workshop is targeted at those who are absolute beginners or ‘tech-curious
 >Tools you need:
 >
 > * Please check that you can log in to [cloudstor.aarnet.edu.au](https://cloudstor.aarnet.edu.au).
+>
 > * If you do not have CloudStor access you can still attend, just advise the trainer beforehand so arrangements can be made.
+>
 > * Bring your own laptop!
+{: .prereq}
 
 
 # Course team
