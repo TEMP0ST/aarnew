@@ -1,7 +1,6 @@
 ---
 title: "What do Jupyter Notebooks do?"
 permalink: /02-jupyter-notebooks
-layout: episode
 teaching: 5
 exercises: 5
 questions:

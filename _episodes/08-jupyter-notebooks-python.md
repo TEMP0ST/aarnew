@@ -1,7 +1,6 @@
 ---
 title: "Working in Jupyter Notebooks with Python"
 permalink: /08-jupyter-notebooks-python
-layout: episode
 teaching: 25
 exercises: 15
 questions:

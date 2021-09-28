@@ -1,7 +1,6 @@
 ---
 title: "Jupyter Notebooks in the researcher's toolkit"
 permalink: /10-jupyter-notebook-researcher-toolkit
-layout: episode
 teaching: 5
 exercises: 5
 questions:

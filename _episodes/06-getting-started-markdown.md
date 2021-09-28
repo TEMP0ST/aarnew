@@ -1,7 +1,6 @@
 ---
 title: "Getting started in Markdown"
 permalink: /06-getting-started-markdown
-layout: episode
 teaching: 5
 exercises: 5
 questions:

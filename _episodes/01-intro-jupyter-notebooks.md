@@ -1,7 +1,6 @@
 ---
 title: "Introduction to Jupyter Notebooks"
 permalink: /01-intro-jupyter-notebooks
-layout: episode
 teaching: 5
 exercises: 10
 questions:

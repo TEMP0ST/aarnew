@@ -1,7 +1,6 @@
 ---
 title: "How do Jupyter Notebooks work?"
 permalink: /04-how-jupyter-notebooks-work
-layout: episode
 teaching: 5
 exercises: 10
 questions:

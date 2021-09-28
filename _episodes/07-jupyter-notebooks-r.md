@@ -1,7 +1,6 @@
 ---
 title: "Working in Jupyter Notebooks with R"
 permalink: /07-jupyter-notebooks-r
-layout: episode
 teaching: 20
 exercises: 20
 questions:

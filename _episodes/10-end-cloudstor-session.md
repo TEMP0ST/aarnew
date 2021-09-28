@@ -1,7 +1,6 @@
 ---
 title: "Finishing your session"
 permalink: /10-end-cloudstor-session
-layout: episode
 teaching: 5
 exercises: 5
 questions:

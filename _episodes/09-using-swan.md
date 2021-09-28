@@ -1,7 +1,6 @@
 ---
 title: "Using data in CloudStor"
 permalink: /09-using-data-cloudstor
-layout: episode
 teaching: 5
 exercises: 5
 questions:

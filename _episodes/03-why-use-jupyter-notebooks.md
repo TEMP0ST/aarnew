@@ -1,7 +1,6 @@
 ---
 title: "Why use Jupyter Notebooks?"
 permalink: /03-why-use-jupyter-notebooks
-layout: episode
 teaching: 5
 exercises: 5
 questions:
