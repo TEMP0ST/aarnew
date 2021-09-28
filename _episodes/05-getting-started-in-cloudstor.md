@@ -1,6 +1,6 @@
 ---
 title: "Getting started in Cloudstor"
-permalink: /05-getting-started-cloudstor
+permalink: /05-getting-started-in-cloudstor
 layout: episode
 teaching: 5
 exercises: 5
