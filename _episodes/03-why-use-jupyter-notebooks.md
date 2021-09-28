@@ -74,4 +74,3 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
  + Jupyter Notebooks.
 {: .challenge}
 
-{% include links.md %}
