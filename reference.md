@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Reference Terms"
+---
+
+## Key terms
+
 **Array** - Items (such as objects, numbers, etc.) arranged in rows and/or columns. In computer science, an **array data structure**, or simply an **array**, is a data structure consisting of a collection of elements (**values** or **variables**), each identified by at least one array index or **key**
 
 **Cell** - A **code cell** allows you to write and edit code, with syntax highlighting and tab completion, and can then execute that code, or make it run - see [Code cells](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#:~:text=collection%20of%20examples.-,Code%20cells,(IPython)%20runs%20Python%20code.)
