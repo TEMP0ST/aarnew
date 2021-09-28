@@ -74,6 +74,7 @@ What are the words that trip you up? Think of a way to remember what that word m
 > - Command line
 > - Vector
 > - Array
-{: .challenge}
+
+{: .keypoints}
 
 
