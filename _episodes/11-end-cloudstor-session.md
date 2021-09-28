@@ -1,6 +1,6 @@
 ---
 title: "Finishing your CloudStor session"
-permalink: /10-end-cloudstor-session
+permalink: /11-end-cloudstor-session
 teaching: 5
 exercises: 5
 questions:
