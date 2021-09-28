@@ -54,12 +54,9 @@ Jupyter Notebooks have exploded in popularity over the past couple of years, now
 > ## Activity - Jargon busting
 >
 > In pairs, talk about the language used in the introductions. Are you familiar with these terms?
-What are the words that trip you up? Think of a way to remember what that word means in this context that might
- help others understand it better. How could you re-write some of the introductory text above to make it
- easier to understand?
+What are the words that trip you up? Think of a way to remember what that word means in this context that might help others understand it better. How could you re-write some of the introductory text above to make it easier to understand?
 >
-> Add your definitions to some of the terms we'll be using in today's workshop Etherpad, and remember to keep
- adding them as we go. This will be a useful resource for us all later!
+> Add your definitions to some of the terms we'll be using in today's workshop Etherpad, and remember to keep adding them as we go. This will be a useful resource for us all later!
 >
 > - Computational notebook
 > - Literate programming
@@ -74,7 +71,6 @@ What are the words that trip you up? Think of a way to remember what that word m
 > - Command line
 > - Vector
 > - Array
-
-{: .keypoints}
+{: .challenge}
 
 
